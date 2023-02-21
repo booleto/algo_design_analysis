@@ -2,8 +2,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.BufferedWriter;
 import java.util.Random;
-
-import javax.naming.spi.DirStateFactory.Result;
 /**
  * AlgoLogger
  */
